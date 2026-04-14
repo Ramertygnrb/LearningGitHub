@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Program1");
-            
+            Console.WriteLine("Program2");
+
         }
     }
 }
